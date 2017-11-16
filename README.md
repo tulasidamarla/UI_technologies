@@ -41,9 +41,8 @@ Note: If two different versions of the same dependecy are required npm will inst
 
 Note:npm requires package.json for defining dependencies, whereas bower requires bower.json.
 
-What is GRUNT?
-Ans:
-Grunt is a java script task runner. Grunt is configured to project using Gruntfile.js which contains repetitive tasks like minification, compilation, unit testing, linting(code quality) etc.
+What is GRUNT?<br>
+Ans:Grunt is a java script task runner. Grunt is configured to project using Gruntfile.js which contains repetitive tasks like minification, compilation, unit testing, linting(code quality) etc.
 
 The Grunt ecosystem is huge. With literally hundreds of plugins to choose from Grunt can be used to automate just about anything with a minimum of effort.
 
